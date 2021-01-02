@@ -71,7 +71,7 @@ OpenTimelineIO==0.12.1
 packaging==20.8
 paramiko==2.6.0
 pexpect==4.6.0
-Pillow==7.0.0
+Pillow==7.1.0
 protobuf==3.6.1
 psycopg2==2.8.6
 psycopg2-binary==2.8.5
