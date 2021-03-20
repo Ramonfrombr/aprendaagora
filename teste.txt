@@ -39,7 +39,7 @@ httplib2==0.14.0
 idna==2.8
 isort==5.7.0
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 keyring==18.0.1
 language-selector==0.1
 launchpadlib==1.10.13
